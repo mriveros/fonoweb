@@ -1,0 +1,5 @@
+.welcome {
+    height: calc(100vh - 101px);
+    background-color: #252526;
+    color: white;
+}

@@ -1,0 +1,38 @@
+.feedbackcarrousel {
+    padding: 28px 72px;
+    padding-bottom: 160px;
+}
+
+.activeDot {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    left: 677px;
+    top: 25px;
+    background: #B2B2B2;
+    transition: all 0.2s ease-out;
+}
+
+.inactiveDot {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+    left: 704.46px;
+    top: 27px;
+    background: #DADADA;
+    transition: all 0.2s ease-out;
+}
+
+.inactiveDot:hover {
+    transition: all 0.2s ease-out;
+    cursor: pointer; 
+    width: 18px;
+    height: 18px;
+}
+
+.react-multi-carousel-dot-list  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 9.15px;
+}

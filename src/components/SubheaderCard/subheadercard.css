@@ -1,0 +1,16 @@
+.subheader__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    gap: 80px;
+}
+
+.subheader__card--title {
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    color: #303030;
+}

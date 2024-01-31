@@ -1,0 +1,6983 @@
+.style {
+    /* Homepage */
+
+    position: relative;
+    width: 1440px;
+    height: 9491px;
+    overflow-y: scroll;
+
+    background: #F3F3F3;
+
+
+    /* FAQ */
+
+    position: absolute;
+    width: 1439px;
+    height: 900px;
+    left: 0px;
+    top: 7131px;
+
+    background: #F3F3F3;
+
+
+    /* Vector 1 */
+
+    position: absolute;
+    width: 324px;
+    height: 266px;
+    left: 324.37px;
+    top: 261px;
+
+    background: #252526;
+    border: 1px solid #252525;
+    transform: rotate(179.7deg);
+
+
+    /* Line 3 */
+
+    position: absolute;
+    width: 436.61px;
+    height: 0px;
+    left: 43px;
+    top: 220px;
+
+    border: 6px solid #75BFB2;
+    transform: rotate(-39.89deg);
+
+
+    /* Line 4 */
+
+    position: absolute;
+    width: 462.21px;
+    height: 0px;
+    left: -8px;
+    top: 250px;
+
+    border: 6px solid #F29422;
+    transform: rotate(-39.82deg);
+
+
+    /* Left Column */
+
+    position: absolute;
+    width: 466px;
+    height: 646px;
+    left: 170px;
+    top: 157px;
+
+
+
+    /* MAP Placeholder */
+
+    position: absolute;
+    width: 466px;
+    height: 646px;
+    left: 170px;
+    top: 157px;
+
+    background: url(pexels-karolina-grabowska-5387179);
+    border-radius: 16px;
+
+
+    /* Right Column */
+
+    position: absolute;
+    width: 610px;
+    height: 556px;
+    left: 705px;
+    top: 157px;
+
+
+
+    /* formulario de contacto */
+
+    position: absolute;
+    width: 396.5px;
+    height: 18px;
+    left: 705px;
+    top: 157px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+
+    /* Contáctanos */
+
+    position: absolute;
+    width: 610px;
+    height: 54px;
+    left: 705px;
+    top: 190px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+
+    /* Heading Color */
+    color: #303030;
+
+
+
+    /* Escribe tus datos de contacto y platícanos sobre tu idea o proyecto y enseguida un integrante de Boost se pondrá en contacto contigo. */
+
+    position: absolute;
+    width: 533.75px;
+    height: 75px;
+    left: 705px;
+    top: 271px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Contact Form */
+
+    position: absolute;
+    width: 610px;
+    height: 340px;
+    left: 705px;
+    top: 373px;
+
+
+
+    /* Text Form */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 705px;
+    top: 373px;
+
+
+
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 705px;
+    top: 373px;
+
+    background: #DEDEDE;
+    border-radius: 5px;
+
+
+    /* Nombre */
+
+    position: absolute;
+    width: 249.08px;
+    height: 25px;
+    left: 725.33px;
+    top: 393px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Text Form */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 1025.25px;
+    top: 373px;
+
+
+
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 1025.25px;
+    top: 373px;
+
+    background: #DEDEDE;
+    border-radius: 5px;
+
+
+    /* Teléfono */
+
+    position: absolute;
+    width: 249.08px;
+    height: 25px;
+    left: 1045.58px;
+    top: 393px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Email Form */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 705px;
+    top: 468px;
+
+
+
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 705px;
+    top: 468px;
+
+    background: #DEDEDE;
+    border-radius: 5px;
+
+
+    /* Correo electrónico */
+
+    position: absolute;
+    width: 249.08px;
+    height: 25px;
+    left: 725.33px;
+    top: 488px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Text Form */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 1025.25px;
+    top: 468px;
+
+
+
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 289.75px;
+    height: 65px;
+    left: 1025.25px;
+    top: 468px;
+
+    background: #DEDEDE;
+    border-radius: 5px;
+
+
+    /* Motivo de consulta */
+
+    position: absolute;
+    width: 249.08px;
+    height: 25px;
+    left: 1045.58px;
+    top: 488px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Text Paragraph */
+
+    position: absolute;
+    width: 610px;
+    height: 150px;
+    left: 705px;
+    top: 563px;
+
+
+
+    /* Rectangle 13 */
+
+    position: absolute;
+    width: 610px;
+    height: 150px;
+    left: 705px;
+    top: 563px;
+
+    background: #DEDEDE;
+    border-radius: 5px;
+
+
+    /* Tu mensaje */
+
+    position: absolute;
+    width: 249.08px;
+    height: 25px;
+    left: 725.33px;
+    top: 583px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Component 8 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 176px;
+    height: 60px;
+    left: 705px;
+    top: 743px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 62px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Clientes felices */
+
+    position: absolute;
+    width: 1441px;
+    height: 781px;
+    left: 0px;
+    top: 6350px;
+
+    background: #252526;
+
+
+    /* Frame 1 */
+
+    position: absolute;
+    width: 1239px;
+    height: 400px;
+    left: 101px;
+    top: 215px;
+    overflow-x: scroll;
+
+
+
+    /* Rectangle 1 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 0px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 2 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 290px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 3 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 580px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 4 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 870px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 5 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 1160px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 6 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 1450px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 7 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 1740px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 8 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 2030px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Rectangle 9 */
+
+    position: absolute;
+    width: 270px;
+    height: 400px;
+    left: 2320px;
+    top: 0px;
+
+    background: url(), #D9D9D9;
+
+
+    /* Line 3 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 75px;
+    top: 1080px;
+
+    border: 6px solid #75BFB2;
+    transform: rotate(-40.05deg);
+
+
+    /* Line 4 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 31px;
+    top: 1104px;
+
+    border: 6px solid #F29422;
+    transform: rotate(-40.05deg);
+
+
+    /* Group 2 */
+
+    position: absolute;
+    width: 1669px;
+    height: 556px;
+    left: -118px;
+    top: 110px;
+
+
+
+    /* Group 1 */
+
+    position: absolute;
+    width: 1669px;
+    height: 532px;
+    left: -118px;
+    top: 134px;
+
+
+
+    /* Ellipse 2 */
+
+    position: absolute;
+    width: 1669px;
+    height: 102px;
+    left: -118px;
+    top: 564px;
+
+    background: #252525;
+
+
+    /* Ellipse 1 */
+
+    position: absolute;
+    width: 1669px;
+    height: 102px;
+    left: -118px;
+    top: 134px;
+
+    background: #252525;
+
+
+    /* Un poco de nuestros trabajos realizados... */
+
+    position: absolute;
+    width: 778px;
+    height: 24px;
+    left: 329px;
+    top: 110px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #75BFB2;
+
+
+
+    /* Line 5 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 80px;
+    top: 959px;
+
+    border: 6px solid #F29422;
+    transform: rotate(-40.05deg);
+
+
+    /* Line 6 */
+
+    position: absolute;
+    width: 366.96px;
+    height: 0px;
+    left: 79.5px;
+    top: 967.5px;
+
+    border: 6px solid #75BFB2;
+    transform: rotate(-40.03deg);
+
+
+    /* Pagination */
+
+    position: absolute;
+    width: 86.96px;
+    height: 20px;
+    left: 677px;
+    top: 25px;
+
+
+
+    /* Ellipse 3 */
+
+    position: absolute;
+    width: 18.31px;
+    height: 20px;
+    left: 677px;
+    top: 25px;
+
+    /* Secondary */
+    background: #B2B2B2;
+
+
+    /* Ellipse 4 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 704.46px;
+    top: 27px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Ellipse 5 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 727.35px;
+    top: 27px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Ellipse 6 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 750.23px;
+    top: 27px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Servicios */
+
+    position: absolute;
+    width: 1440px;
+    height: 2307px;
+    left: 0px;
+    top: 2687px;
+
+    background: #F3F3F3;
+
+
+    /* SEO Specialist */
+
+    position: absolute;
+    width: 1240px;
+    height: 377px;
+    left: 100px;
+    top: 841px;
+
+
+
+    /* Left Column */
+
+    position: absolute;
+    width: 638px;
+    height: 477px;
+    left: -14px;
+    top: -73px;
+
+
+
+    /* nuestros servicios */
+
+    position: absolute;
+    width: 396.5px;
+    height: 18px;
+    left: 14px;
+    top: -73px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #061525;
+
+
+
+    /* Marketing en redes sociales */
+
+    position: absolute;
+    width: 610px;
+    height: 54px;
+    left: 14px;
+    top: -38px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+
+    color: #5C9F93;
+
+
+
+    /* Ayudamos a elevar tu audiencia y convertir a personas interesadas, en clientes potenciales de una forma significativa. Un contenido relevante y diseñado para tu audiencia es clave para aumentar la presencia que tiene tu marca dentro de los medios digitales. */
+
+    position: absolute;
+    width: 533.75px;
+    height: 125px;
+    left: 14px;
+    top: 53px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #061525;
+
+
+
+    /* Icon List */
+
+    position: absolute;
+    width: 364.92px;
+    height: 185px;
+    left: -14px;
+    top: 219px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 364.53px;
+    height: 25px;
+    left: -14px;
+    top: 219px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 10.28px;
+    height: 23px;
+    left: -14px;
+    top: 219px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    color: #061525;
+
+
+
+    /* / Posicionamiento SEO. */
+
+    position: absolute;
+    width: 331.82px;
+    height: 25px;
+    left: 18.71px;
+    top: 219px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 364.53px;
+    height: 25px;
+    left: -14px;
+    top: 259px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 10.28px;
+    height: 23px;
+    left: -14px;
+    top: 259px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    color: #061525;
+
+
+
+    /* / Facebook Ads. */
+
+    position: absolute;
+    width: 331.82px;
+    height: 25px;
+    left: 18.71px;
+    top: 259px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 364.53px;
+    height: 25px;
+    left: -14px;
+    top: 299px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 10.28px;
+    height: 23px;
+    left: -14px;
+    top: 299px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    color: #061525;
+
+
+
+    /* / Social Advertising. */
+
+    position: absolute;
+    width: 331.82px;
+    height: 25px;
+    left: 18.71px;
+    top: 299px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* / Google Ads. */
+
+    position: absolute;
+    width: 331.82px;
+    height: 25px;
+    left: 19.1px;
+    top: 339px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* / E-mail marketing. */
+
+    position: absolute;
+    width: 331.82px;
+    height: 25px;
+    left: 19.1px;
+    top: 379px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* Icon List */
+
+    position: absolute;
+    width: 293px;
+    height: 105px;
+    left: 331px;
+    top: 219px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 331px;
+    top: 219px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 8.26px;
+    height: 23px;
+    left: 331px;
+    top: 219px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* / Community Management. */
+
+    position: absolute;
+    width: 266.71px;
+    height: 25px;
+    left: 357.29px;
+    top: 219px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 331px;
+    top: 259px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 8.26px;
+    height: 23px;
+    left: 331px;
+    top: 259px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* / Creatividades */
+
+    position: absolute;
+    width: 266.71px;
+    height: 25px;
+    left: 357.29px;
+    top: 259px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 331px;
+    top: 299px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 8.26px;
+    height: 23px;
+    left: 331px;
+    top: 299px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* / Instagram, Facebook, Tik Tok */
+
+    position: absolute;
+    width: 266.71px;
+    height: 25px;
+    left: 357.29px;
+    top: 299px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* Right Column */
+
+    position: absolute;
+    width: 552px;
+    height: 377px;
+    left: 688px;
+    top: -73px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 552px;
+    height: 377px;
+    left: 688px;
+    top: -73px;
+
+    background: url(businessman-working-with-data-for-marketing-and-fi-2022-11-10-18-37-52-utc);
+    border-radius: 16px;
+
+
+    /* Website Development */
+
+    position: absolute;
+    width: 1230px;
+    height: 377px;
+    left: 83px;
+    top: 1541px;
+
+
+
+    /* Right Column */
+
+    position: absolute;
+    width: 604px;
+    height: 251px;
+    left: 648px;
+    top: -177px;
+
+
+
+    /* nuestros servicios */
+
+    position: absolute;
+    width: 392.6px;
+    height: 18px;
+    left: 648px;
+    top: -177px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #061525;
+
+
+
+    /* Branding */
+
+    position: absolute;
+    width: 604px;
+    height: 54px;
+    left: 648px;
+    top: -144px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+
+    color: #5C9F93;
+
+
+
+    /* Construimos tu marca mediante la gestión planificada de todos los procesos gráficos, comunicacionales y de posicionamiento que se llevan a cabo. El objetivo principal del branding es extender la marca de la empresa en el mercado, posicionarla y ubicarla en la mente de los consumidores. */
+
+    position: absolute;
+    width: 528.5px;
+    height: 125px;
+    left: 648px;
+    top: -51px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #061525;
+
+
+
+    /* Icon List */
+
+    position: absolute;
+    width: 357.37px;
+    height: 105px;
+    left: 648px;
+    top: 116px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 116px;
+
+
+
+    /* / Diseño y creación de logo */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 116px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 156px;
+
+
+
+    /* / Identidad corporativa */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 156px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 196px;
+
+
+
+    /* / Manual de marca. */
+
+    position: absolute;
+    width: 357.37px;
+    height: 25px;
+    left: 648px;
+    top: 196px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* Left Column */
+
+    position: absolute;
+    width: 547px;
+    height: 377px;
+    left: 18px;
+    top: -177px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 547px;
+    height: 377px;
+    left: 18px;
+    top: -177px;
+
+    background: url(pexels-leeloo-thefirst-7598017);
+    border-radius: 16px;
+
+
+    /* Website Development */
+
+    position: absolute;
+    width: 1230px;
+    height: 377px;
+    left: 100px;
+    top: 142px;
+
+
+
+    /* Right Column */
+
+    position: absolute;
+    width: 604px;
+    height: 87px;
+    left: 631px;
+    top: 0px;
+
+
+
+    /* nuestros servicios */
+
+    position: absolute;
+    width: 392.6px;
+    height: 18px;
+    left: 631px;
+    top: 0px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+
+    /* Desarrollo web */
+
+    position: absolute;
+    width: 604px;
+    height: 54px;
+    left: 631px;
+    top: 33px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+
+    color: #5C9F93;
+
+
+
+    /* Left Column */
+
+    position: absolute;
+    width: 548px;
+    height: 377px;
+    left: 0px;
+    top: 0px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 548px;
+    height: 377px;
+    left: 0px;
+    top: 0px;
+
+    background: url(developing-programmer-development-website-design-a-2022-11-09-06-47-21-utc);
+    border-radius: 16px;
+
+
+    /* Creamos tu sitio web para que tus clientes puedan visualizar tu emprendimiento ó empresa, para conseguirlo se hace uso de tecnologías de software del lado del servidor y del cliente que involucran una combinación de procesos de base de datos con el uso de un navegador web a fin de realizar determinadas tareas o mostrar información. */
+
+    position: absolute;
+    width: 609px;
+    height: 125px;
+    left: 631px;
+    top: 126px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #061525;
+
+
+
+    /* Icon List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 185px;
+    left: 631px;
+    top: 290px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 290px;
+
+
+
+    /* / Diseño y programación. */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 290px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 330px;
+
+
+
+    /* / Landing page */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 330px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 370px;
+
+
+
+    /* / Ecommerce */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 370px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 410px;
+
+
+
+    /* / Registro de dominio y planes de hosting */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 410px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 450px;
+
+
+
+    /* / Mantenimiento del sitio web */
+
+    position: absolute;
+    width: 360.92px;
+    height: 25px;
+    left: 631px;
+    top: 450px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height, or 156% */
+
+    color: #061525;
+
+
+
+    /* Vector 1 */
+
+    position: absolute;
+    width: 324px;
+    height: 266px;
+    left: 1116px;
+    top: 1641px;
+
+    background: #252526;
+    border: 1px solid #252525;
+
+
+    /* Group 15 */
+
+    position: absolute;
+    width: 318.23px;
+    height: 337.93px;
+    left: 1130.35px;
+    top: -32.45px;
+
+
+
+    /* Line 4 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 1172.62px;
+    top: 25.39px;
+
+    border: 6px solid #75BFB2;
+    transform: rotate(45.42deg);
+
+
+    /* Line 5 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 1130.35px;
+    top: -32.45px;
+
+    border: 6px solid #F29422;
+    transform: rotate(45.54deg);
+
+
+    /* Nuestro equipo */
+
+    position: absolute;
+    width: 1441px;
+    height: 406px;
+    left: -1px;
+    top: 1907px;
+
+    background: #252526;
+
+
+    /* Title Section */
+
+    position: absolute;
+    width: 516px;
+    height: 175px;
+    left: 491px;
+    top: 85px;
+
+
+
+    /* Tarifario */
+
+    position: absolute;
+    width: 141px;
+    height: 54px;
+    left: 650px;
+    top: 85px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+    text-align: center;
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+
+
+
+    /* Estamos comprometidos con el despegue de tu negocio ¡Somos tu mejor opción! */
+
+    position: absolute;
+    width: 516px;
+    height: 50px;
+    left: 491px;
+    top: 210px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    /* or 139% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: lowercase;
+
+    color: #FFFFFF;
+
+
+
+    /* Team Box */
+
+    position: absolute;
+    width: 1184px;
+    height: 400px;
+    left: 147px;
+    top: 553px;
+
+
+
+    /* Team Box */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 147px;
+    top: 553px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 147px;
+    top: 553px;
+
+    background: #C4C4C4;
+    border-radius: 5px;
+
+
+    /* Team Box */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 492px;
+    top: 553px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 492px;
+    top: 553px;
+
+    background: #C4C4C4;
+    border-radius: 5px;
+
+
+    /* Team Box */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 931px;
+    top: 553px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 931px;
+    top: 553px;
+
+    background: #C4C4C4;
+    border-radius: 5px;
+
+
+    /* Component 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+
+    position: absolute;
+    width: 396px;
+    height: 65px;
+    left: 35px;
+    top: 52px;
+
+
+
+    /* Frame 6 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    display: none;
+    width: 396px;
+    height: 65px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Frame 7 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 7px;
+
+    display: none;
+    width: 396px;
+    height: 223px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 65.72%;
+    right: 33.46%;
+    top: 27.66%;
+    bottom: 69.54%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 75.23%;
+    right: 24.29%;
+    top: 60.99%;
+    bottom: 37.35%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 79.18%;
+    right: 20.19%;
+    top: 52.01%;
+    bottom: 45.86%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 91.74%;
+    right: 7.63%;
+    top: 21.39%;
+    bottom: 76.49%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 79.25%;
+    right: 20.4%;
+    top: 69.27%;
+    bottom: 29.55%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 14.3%;
+    right: 84.66%;
+    top: 17.73%;
+    bottom: 78.72%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 9.02%;
+    right: 90.28%;
+    top: 32.86%;
+    bottom: 64.78%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 13.95%;
+    right: 85.7%;
+    top: 44.44%;
+    bottom: 54.37%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Group 19 */
+
+    position: absolute;
+    width: 184px;
+    height: 180px;
+    left: 268px;
+    top: 191px;
+
+
+
+    /* Component 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+
+    position: absolute;
+    width: 184px;
+    height: 180px;
+    left: 268px;
+    top: 191px;
+
+
+
+    /* Frame 6 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    width: 184px;
+    height: 65px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Multiple Select With Dropdown List */
+
+    width: 126px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Frame 4 */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px 10px;
+    gap: 15px;
+
+    width: 184px;
+    height: 40px;
+
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Frame 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 15px;
+
+    width: 0px;
+    height: 20px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Frame 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 5px;
+
+    display: none;
+    width: 79px;
+    height: 30px;
+
+    background: #E9E9E9;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Frame 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 5px;
+
+    display: none;
+    width: 79px;
+    height: 30px;
+
+    background: #E9E9E9;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Frame 3 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap: 5px;
+
+    display: none;
+    width: 79px;
+    height: 30px;
+
+    background: #E9E9E9;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+
+    /* con nháy */
+
+    width: 0px;
+    height: 20px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+
+
+    /* Vector 2 */
+
+    position: absolute;
+    width: 0px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+
+    border: 2px solid #F29422;
+
+
+    /* Select */
+
+    display: none;
+    width: 36px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #BBBBBB;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+
+
+    /* bxs:down-arrow */
+
+    display: none;
+    width: 20px;
+    height: 20px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Frame 7 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 7px;
+
+    width: 184px;
+    height: 107px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Component 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 164px;
+    height: 40px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Name */
+
+    width: 87px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #333333;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* flat-color-icons:ok */
+
+    width: 20px;
+    height: 20px;
+
+    opacity: 0;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+
+    background: #75BFB2;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 26.25%;
+    right: 22.08%;
+    top: 30.42%;
+    bottom: 29.58%;
+
+    background: #FFFFFF;
+
+
+    /* Component 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    width: 164px;
+    height: 40px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Name */
+
+    width: 43px;
+    height: 15px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+    color: #333333;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* flat-color-icons:ok */
+
+    width: 20px;
+    height: 20px;
+
+    opacity: 0;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 6.25%;
+    right: 6.25%;
+    top: 6.25%;
+    bottom: 6.25%;
+
+    background: #75BFB2;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 26.25%;
+    right: 22.08%;
+    top: 30.42%;
+    bottom: 29.58%;
+
+    background: #FFFFFF;
+
+
+    /* Component 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    display: none;
+    width: 376px;
+    height: 40px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Component 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    display: none;
+    width: 376px;
+    height: 40px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Component 1 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+
+    display: none;
+    width: 376px;
+    height: 40px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Argentina */
+
+    position: absolute;
+    width: 17.66px;
+    height: 26.44px;
+    left: 381px;
+    top: 278px;
+
+    background: url(.png);
+
+
+    /* USA */
+
+    position: absolute;
+    width: 17.48px;
+    height: 27.46px;
+    left: 381px;
+    top: 324px;
+
+    background: url(.png);
+
+
+    /* bxs:down-arrow */
+
+    position: absolute;
+    width: 18.4px;
+    height: 20.34px;
+    left: 424px;
+    top: 226px;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 8.34%;
+    right: 8.33%;
+    top: 20.83%;
+    bottom: 16.66%;
+
+    background: #FFFFFF;
+
+
+    /* Line 2 */
+
+    position: absolute;
+    width: 444.54px;
+    height: 0px;
+    left: 1116px;
+    top: 1925px;
+
+    border: 6px solid #75BFB2;
+    transform: rotate(-39.71deg);
+
+
+    /* Line 3 */
+
+    position: absolute;
+    width: 393.2px;
+    height: 0px;
+    left: 1179.07px;
+    top: 1884.89px;
+
+    border: 6px solid #F29422;
+    transform: rotate(-39.63deg);
+
+
+    /* Group 11 */
+
+    position: absolute;
+    width: 1440px;
+    height: 934px;
+    left: 0px;
+    top: 1043px;
+
+
+
+    /* Somos2 */
+
+    position: absolute;
+    width: 1440px;
+    height: 934px;
+    left: 0px;
+    top: 1043px;
+
+
+
+    /* Background */
+
+    position: absolute;
+    width: 1514px;
+    height: 349px;
+    left: -26px;
+    top: 93px;
+
+    background: rgba(117, 191, 178, 0.7);
+    border-radius: 10px;
+
+
+    /* Group 1 */
+
+    position: absolute;
+    width: 1248px;
+    height: 747px;
+    left: 92px;
+    top: 132px;
+
+
+
+    /* Left Column */
+
+    position: absolute;
+    width: 618px;
+    height: 513px;
+    left: 92px;
+    top: 132px;
+
+
+
+    /* ¿Quiénes somos? */
+
+    position: absolute;
+    width: 204px;
+    height: 18px;
+    left: 104px;
+    top: 132px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+
+    /* Somos una agencia digital creativa en el mundo online */
+
+    position: absolute;
+    width: 610px;
+    height: 100px;
+    left: 100px;
+    top: 193px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    /* or 143% */
+
+    color: #303030;
+
+
+
+    /* Emprendedores, pymes y grandes negocios, en Boost tenemos la asesoría específica para cada uno de ellos. ¡Te acompañamos en cada paso hacia el futuro de tu marca! */
+
+    position: absolute;
+    width: 533.75px;
+    height: 75px;
+    left: 100px;
+    top: 336px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #061525;
+
+
+
+    /* Icon List */
+
+    position: absolute;
+    width: 176px;
+    height: 105px;
+    left: 92px;
+    top: 540px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 176px;
+    height: 25px;
+    left: 92px;
+    top: 540px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 3.84px;
+    height: 23px;
+    left: 92px;
+    top: 540px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Desarrollo web */
+
+    position: absolute;
+    width: 164px;
+    height: 25px;
+    left: 104px;
+    top: 540px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    color: #303030;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 136px;
+    height: 25px;
+    left: 92px;
+    top: 580px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 3.84px;
+    height: 23px;
+    left: 92px;
+    top: 580px;
+
+    /* Icon List */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height, or 115% */
+
+    color: #B2B2B2;
+
+
+
+    /* Branding */
+
+    position: absolute;
+    width: 123.79px;
+    height: 25px;
+    left: 104.21px;
+    top: 580px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    color: #303030;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 164px;
+    height: 25px;
+    left: 104px;
+    top: 620px;
+
+
+
+    /* Redes sociales */
+
+    position: absolute;
+    width: 164px;
+    height: 25px;
+    left: 104px;
+    top: 620px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    color: #303030;
+
+
+
+    /* Right Column */
+
+    position: absolute;
+    width: 706px;
+    height: 686px;
+    left: 634px;
+    top: 193px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 506px;
+    height: 431px;
+    left: 834px;
+    top: 193px;
+
+    background: url(pexels-antoni-shkraba-4348401.jpg);
+    border-radius: 16px;
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 284px;
+    height: 468px;
+    left: 634px;
+    top: 411px;
+
+    background: url(pexels-antoni-shkraba-4986496.jpg);
+    border-radius: 16px;
+
+
+    /* young woman leaning on something with hands folded */
+
+    position: absolute;
+    width: 244px;
+    height: 224px;
+    left: 487px;
+    top: 0px;
+
+
+
+    /* Group 3 */
+
+    position: absolute;
+    width: 1440px;
+    height: 1000px;
+    left: 0px;
+    top: 0px;
+
+
+
+    /* Subhead */
+
+    position: absolute;
+    width: 1440px;
+    height: 300px;
+    left: 0px;
+    top: 700px;
+
+
+
+    /* Services Box Fullwidth */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+
+    position: absolute;
+    width: 1440px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+    /* White */
+    background: #FFFFFF;
+
+
+    /* Services Box */
+
+    width: 1440px;
+    height: 300px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Box */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+
+
+    /* Background Image */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+    /* Primary Overlay */
+    background: rgba(94, 94, 94, 0.65);
+
+
+    /* Background Overlay */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+    /* White Smoke */
+    background: #F3F3F3;
+
+
+    /* Component 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 278px;
+    height: 60px;
+    left: 164.28px;
+    top: 190px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 164px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Content */
+
+    position: absolute;
+    width: 281.92px;
+    height: 42px;
+    left: 162px;
+    top: 70px;
+
+
+
+    /* Desarrollo web */
+
+    position: absolute;
+    width: 281.92px;
+    height: 42px;
+    left: 162px;
+    top: 70px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    color: #303030;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 486.76px;
+    top: 0px;
+
+
+
+    /* Background Image */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 486.76px;
+    top: 0px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 486.76px;
+    top: 0px;
+
+    /* Text Color */
+    background: #6E6E6E;
+
+
+    /* Background Overlay */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 486.76px;
+    top: 0px;
+
+    /* White Smoke */
+    background: #F3F3F3;
+
+
+    /* Component 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 278px;
+    height: 60px;
+    left: 589.18px;
+    top: 190px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 164px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Content */
+
+    position: absolute;
+    width: 177.46px;
+    height: 42px;
+    left: 641px;
+    top: 70px;
+
+
+
+    /* Branding */
+
+    position: absolute;
+    width: 177.46px;
+    height: 42px;
+    left: 641px;
+    top: 70px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    color: #303030;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 953.24px;
+    top: 0px;
+
+
+
+    /* Background Image */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 953.24px;
+    top: 0px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 953.24px;
+    top: 0px;
+
+    /* Primary Overlay */
+    background: rgba(94, 94, 94, 0.65);
+
+
+    /* Background Overlay */
+
+    position: absolute;
+    width: 486.76px;
+    height: 300px;
+    left: 953.24px;
+    top: 0px;
+
+    /* White Smoke */
+    background: #F3F3F3;
+
+
+    /* Component 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 278px;
+    height: 60px;
+    left: 1018.14px;
+    top: 190px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 164px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Content */
+
+    position: absolute;
+    width: 281.92px;
+    height: 42px;
+    left: 1016px;
+    top: 70px;
+
+
+
+    /* Redes sociales */
+
+    position: absolute;
+    width: 281.92px;
+    height: 42px;
+    left: 1016px;
+    top: 70px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    color: #303030;
+
+
+
+    /* Header */
+
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(0deg, #252526, #252526), radial-gradient(100% 423.18% at 100% 0%, #1B181F 0%, #310459 100%)
+        /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */
+    ;
+
+
+    /* Full Moon */
+
+    position: absolute;
+    width: 97px;
+    height: 98px;
+    left: 893px;
+    top: 316px;
+
+    background: url(.png);
+
+
+    /* Hero Block */
+
+    position: absolute;
+    width: 913px;
+    height: 338px;
+    left: 46px;
+    top: 159px;
+
+
+
+    /* Despegamos con tus mejores ideas y aterrizamos haciéndolas realidad. */
+
+    position: absolute;
+    width: 859px;
+    height: 18px;
+    left: 100px;
+    top: 240px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FEFFFE;
+
+
+
+    /* Te ofrecemos un servicio completo de desarrollo web, marketing y diseño tanto para emprendedores como para empresas. */
+
+    position: absolute;
+    width: 821px;
+    height: 50px;
+    left: 100px;
+    top: 447px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    /* or 147% */
+    text-align: center;
+    text-transform: uppercase;
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 53.47%;
+    right: 46.25%;
+    top: 42.57%;
+    bottom: 56.86%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 3.19%;
+    right: 96.53%;
+    top: 37.43%;
+    bottom: 62%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 5.76%;
+    right: 94.1%;
+    top: 31.14%;
+    bottom: 68.43%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 4.93%;
+    right: 94.58%;
+    top: 22.71%;
+    bottom: 76.29%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Group 12 */
+
+    position: absolute;
+    width: 1581px;
+    height: 201px;
+    left: -134px;
+    top: 499px;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 94.72%;
+    right: -98.75%;
+    top: 71.29%;
+    bottom: 0.14%;
+
+    background: #D0D0D0;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 100.49%;
+    right: -100.97%;
+    top: 74.86%;
+    bottom: 0%;
+
+    background: #F3F3F3;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+    /* Vector */
+
+    position: absolute;
+    visibility: hidden;
+    width: 400.99px;
+    height: 373.23px;
+    left: 943px;
+    top: 254.03px;
+
+    background: #FFFFFF;
+    transform: rotate(-7.74deg);
+
+
+    /* Group 8 */
+
+    position: absolute;
+    width: 392.07px;
+    height: 55px;
+    left: 315px;
+    top: 316px;
+
+
+
+    /* Somos */
+
+    position: absolute;
+    width: 176.51px;
+    height: 44.49px;
+    left: 315px;
+    top: 325.99px;
+
+    /* White */
+    background: #FFFFFF;
+
+
+    /* Vector */
+
+    position: absolute;
+    width: 191px;
+    height: 55px;
+    left: 516.07px;
+    top: 316px;
+
+    background: #FFFFFF;
+
+
+    /* Component 3 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 190px;
+    height: 60px;
+    left: 1150px;
+    top: 21px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 0px;
+    height: 23px;
+
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Header Bar */
+
+    position: absolute;
+    width: 1440px;
+    height: 71px;
+    left: 0px;
+    top: 30px;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    width: 137px;
+    height: 40px;
+    left: 100px;
+    top: 30px;
+
+    background: #FFFFFF;
+
+
+    /* Line 1 */
+
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: 101px;
+
+    border: 1px solid #252525;
+
+
+    /* Contáctanos */
+
+    position: absolute;
+    width: 145px;
+    height: 23px;
+    left: 1166px;
+    top: 40px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+
+    /* Group 9 (1) 1 */
+
+    position: absolute;
+    width: 350px;
+    height: 336px;
+    left: 999px;
+    top: 214px;
+
+    background: url();
+
+
+    /* Full Moon */
+
+    position: absolute;
+    width: 56px;
+    height: 33px;
+    left: 727px;
+    top: 524px;
+
+
+
+    /* Group 47643 */
+
+    position: absolute;
+    width: 11.82px;
+    height: 11.83px;
+    left: 751.08px;
+    top: 550.05px;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 52.16%;
+    right: 47.02%;
+    top: 78.58%;
+    bottom: 19.73%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 88.47%;
+    right: 10.71%;
+    top: 26.86%;
+    bottom: 71.45%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 90.49%;
+    right: 9.03%;
+    top: 64.43%;
+    bottom: 34.57%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 94.31%;
+    right: 5.49%;
+    top: 35.57%;
+    bottom: 64%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 76.67%;
+    right: 22.85%;
+    top: 31.43%;
+    bottom: 67.57%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 61.81%;
+    right: 37.85%;
+    top: 27.29%;
+    bottom: 72%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Component 4 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 284px;
+    height: 48px;
+    left: 511px;
+    top: 30px;
+
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 170px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Component 3 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 191px;
+    height: 48px;
+    left: 763px;
+    top: 30px;
+
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 77px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Component 4 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 166px;
+    height: 48px;
+    left: 378px;
+    top: 30px;
+
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 52px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Component 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 199px;
+    height: 48px;
+    left: 921px;
+    top: 30px;
+
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 85px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 22.15%;
+    right: 77.03%;
+    top: 26.86%;
+    bottom: 71.45%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 12.71%;
+    right: 86.47%;
+    top: 50%;
+    bottom: 48.31%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Nuestro equipo */
+
+    position: absolute;
+    width: 1441px;
+    height: 1357px;
+    left: 0px;
+    top: 4994px;
+
+    background: #252526;
+
+
+    /* Group 9 (1) 1 */
+
+    position: absolute;
+    width: 818px;
+    height: 792px;
+    left: 314px;
+    top: 0px;
+
+    background: url();
+
+
+    /* Title Section */
+
+    position: absolute;
+    width: 755px;
+    height: 167px;
+    left: 329px;
+    top: 752px;
+
+
+
+    /* EL MEJOR FEEDBACK */
+
+    position: absolute;
+    width: 600px;
+    height: 18px;
+    left: 410px;
+    top: 752px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+
+
+    /* Clientes felices */
+
+    position: absolute;
+    width: 257px;
+    height: 54px;
+    left: 582px;
+    top: 805px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+    text-align: center;
+    letter-spacing: -0.025em;
+
+    color: #FFFFFF;
+
+
+
+    /* Algunos de los comentarios de clientes satisfechos con nuestro trabajo... */
+
+    position: absolute;
+    width: 755px;
+    height: 25px;
+    left: 329px;
+    top: 894px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+    text-align: center;
+
+    color: #F29422;
+
+
+
+    /* Rectangle 1006 */
+
+    position: absolute;
+    width: 275px;
+    height: 429px;
+    left: 244px;
+    top: 96px;
+
+    background: #FFFFFF;
+    border-radius: 0px 0px 16px 16px;
+
+
+    /* Rectangle 1007 */
+
+    position: absolute;
+    width: 275px;
+    height: 21px;
+    left: 244px;
+    top: 75px;
+
+    background: #75BFB2;
+    border-radius: 16px 16px 0px 0px;
+
+
+    /* Frame 280 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    position: absolute;
+    width: 161px;
+    height: 20px;
+    left: 301px;
+    top: 132px;
+
+
+
+    /* DESARROLLO WEB */
+
+    width: 161px;
+    height: 20px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Frame 279 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+
+    position: absolute;
+    width: 211px;
+    height: 60px;
+    left: 271px;
+    top: 293px;
+
+
+
+    /* Frame 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 1 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 25 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 2 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Rectangle 1011 */
+
+    position: absolute;
+    width: 275px;
+    height: 429px;
+    left: 583px;
+    top: 96px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 0px 16px 16px;
+
+
+    /* Rectangle 1012 */
+
+    position: absolute;
+    width: 275px;
+    height: 429px;
+    left: 920px;
+    top: 96px;
+
+    background: #FFFFFF;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0px 0px 16px 16px;
+
+
+    /* Rectangle 1008 */
+
+    position: absolute;
+    width: 275px;
+    height: 21px;
+    left: 583px;
+    top: 75px;
+
+    background: #F29422;
+    border-radius: 16px 16px 0px 0px;
+
+
+    /* Frame 32 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+
+    position: absolute;
+    width: 211px;
+    height: 39px;
+    left: 622px;
+    top: 188px;
+
+
+
+    /* Frame 24 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    width: 211px;
+    height: 39px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Frame 17 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    width: 211px;
+    height: 39px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* $199 */
+
+    width: 73px;
+    height: 39px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* /mes */
+
+    width: 40px;
+    height: 22px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* MARKETING */
+
+    position: absolute;
+    width: 211px;
+    height: 21px;
+    left: 622px;
+    top: 132px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Azul */
+    color: #232549;
+
+
+
+    /* Rectangle 6 */
+
+    position: absolute;
+    width: 275px;
+    height: 21px;
+    left: 920px;
+    top: 75px;
+
+    background: #BF4226;
+    border-radius: 16px 16px 0px 0px;
+
+
+    /* Frame 24 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+
+    position: absolute;
+    width: 126px;
+    height: 39px;
+    left: 995px;
+    top: 184px;
+
+
+
+    /* Frame 17 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    width: 126px;
+    height: 39px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* $299 */
+
+    width: 79px;
+    height: 39px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* /mes */
+
+    width: 39px;
+    height: 22px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* BRANDING */
+
+    position: absolute;
+    width: 105px;
+    height: 20px;
+    left: 1005px;
+    top: 132px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* Azul */
+    color: #232549;
+
+
+
+    /* Frame 284 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+
+    position: absolute;
+    width: 211px;
+    height: 96px;
+    left: 941px;
+    top: 293px;
+
+
+
+    /* Frame 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 1 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 25 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 2 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 26 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 3 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 285 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+
+    position: absolute;
+    width: 211px;
+    height: 60px;
+    left: 615px;
+    top: 298px;
+
+
+
+    /* Frame 2 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 1 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 25 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 211px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+
+
+    /* Icon pack */
+
+    width: 24px;
+    height: 24px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 15.45%;
+    right: 15.45%;
+    top: 26.56%;
+    bottom: 25.34%;
+
+    background: #232549;
+
+
+    /* Servicio 2 */
+
+    width: 179px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height, or 129% */
+
+    /* Black-fonts, headings */
+    color: #2D2E2E;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+
+
+    /* Frame 17 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+
+    position: absolute;
+    width: 131px;
+    height: 39px;
+    left: 316px;
+    top: 184px;
+
+
+
+    /* $99 */
+
+    width: 60px;
+    height: 39px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* /mes */
+
+    width: 39px;
+    height: 22px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    /* identical to box height, or 138% */
+    display: flex;
+    align-items: center;
+
+    /* Azul */
+    color: #232549;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 84.52%;
+    right: 14.99%;
+    top: 20.94%;
+    bottom: 78.58%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 84.52%;
+    right: 14.02%;
+    top: 33.83%;
+    bottom: 64.73%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 6.8%;
+    right: 92.3%;
+    top: 1.43%;
+    bottom: 97.68%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 14.09%;
+    right: 85.01%;
+    top: 20.53%;
+    bottom: 78.58%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 9.74%;
+    right: 90.01%;
+    top: 49.49%;
+    bottom: 50.27%;
+
+    background: linear-gradient(90deg, #FFFFFF 0%, #FBE9F5 100%);
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 14.21%;
+    right: 84.97%;
+    top: 47.48%;
+    bottom: 51.72%;
+
+    background: rgba(255, 255, 255, 0.7);
+
+
+    /* Group 47645 */
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 273px;
+    top: 428px;
+
+
+
+    /* Component 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 273px;
+    top: 428px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 0px;
+    height: 23px;
+
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Group 47644 */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 300px;
+    top: 447px;
+
+
+
+    /* Más información */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 300px;
+    top: 447px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+
+    /* Group 47646 */
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 612px;
+    top: 428px;
+
+
+
+    /* Component 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 612px;
+    top: 428px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 0px;
+    height: 23px;
+
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Group 47644 */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 639px;
+    top: 447px;
+
+
+
+    /* Más información */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 639px;
+    top: 447px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+
+    /* Group 47647 */
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 954px;
+    top: 428px;
+
+
+
+    /* Component 5 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 217px;
+    height: 60px;
+    left: 954px;
+    top: 428px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 0px;
+    height: 23px;
+
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Group 47644 */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 981px;
+    top: 447px;
+
+
+
+    /* Más información */
+
+    position: absolute;
+    width: 164px;
+    height: 23px;
+    left: 981px;
+    top: 447px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+
+    /* Ellipse 7 */
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 640px;
+    top: 1411px;
+
+    background: #FFFFFF;
+
+
+    /* Ellipse 8 */
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 685px;
+    top: 1411px;
+
+    background: #726F6F;
+
+
+    /* Ellipse 9 */
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 730px;
+    top: 1411px;
+
+    background: #726F6F;
+
+
+    /* Ellipse 10 */
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 775px;
+    top: 1411px;
+
+    background: #726F6F;
+
+
+    /* Frame 286 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 28px 72px;
+    gap: 20px;
+
+    position: absolute;
+    width: 1308px;
+    height: 499px;
+    left: 28px;
+    top: 964px;
+    overflow-x: scroll;
+
+    background: #252526;
+
+
+    /* Testimonial */
+
+    width: 1135.83px;
+    height: 351px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Testimonial Box */
+
+    position: absolute;
+    width: 558.38px;
+    height: 350px;
+    left: 72px;
+    top: 28px;
+
+
+
+    /* Background */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 558.38px;
+    height: 350px;
+    left: 72px;
+    top: 28px;
+
+    /* Border Color */
+    border: 2px solid #DADADA;
+    border-radius: 16px;
+
+
+    /* Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. */
+
+    position: absolute;
+    width: 493.24px;
+    height: 108px;
+    left: 104.57px;
+    top: 130px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    color: #D9D9D9;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 232.66px;
+    height: 52px;
+    left: 104.57px;
+    top: 63px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Border Color */
+    color: #DADADA;
+
+
+
+    /* Client */
+
+    position: absolute;
+    width: 330.38px;
+    height: 75px;
+    left: 104.57px;
+    top: 268px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 69.8px;
+    height: 75px;
+    left: 104.57px;
+    top: 268px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Client Info */
+
+    position: absolute;
+    width: 232.66px;
+    height: 54px;
+    left: 202.29px;
+    top: 279px;
+
+
+
+    /* Julián Alvarez */
+
+    position: absolute;
+    width: 232.66px;
+    height: 30px;
+    left: 202.29px;
+    top: 279px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    color: #F3F3F3;
+
+
+
+    /* manchester */
+
+    position: absolute;
+    width: 134.94px;
+    height: 18px;
+    left: 202.29px;
+    top: 315px;
+
+    /* Subheading */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Testimonial Box */
+
+    box-sizing: border-box;
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 35px 36px;
+    gap: 23px;
+
+    position: absolute;
+    width: 559.14px;
+    height: 351px;
+    left: 648.69px;
+    top: 28px;
+
+    /* Border Color */
+    border: 2px solid #DADADA;
+    border-radius: 16px;
+
+
+    /*  */
+
+    width: 254.17px;
+    height: 52px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Border Color */
+    color: #DADADA;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. */
+
+    width: 507px;
+    height: 108px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    color: #D9D9D9;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Client */
+
+    width: 360.92px;
+    height: 75px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 76.25px;
+    height: 75px;
+    left: 36px;
+    top: 241px;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+
+
+    /* Client Info */
+
+    position: absolute;
+    width: 254.17px;
+    height: 54px;
+    left: 142.75px;
+    top: 252px;
+
+
+
+    /* Lionel Messi */
+
+    position: absolute;
+    width: 254.17px;
+    height: 30px;
+    left: 142.75px;
+    top: 252px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    color: #F3F3F3;
+
+
+
+    /* paris */
+
+    position: absolute;
+    width: 147.42px;
+    height: 18px;
+    left: 142.75px;
+    top: 288px;
+
+    /* Subheading */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Pagination */
+
+    position: absolute;
+    visibility: hidden;
+    width: 59.5px;
+    height: 15px;
+    left: 625.46px;
+    top: 442px;
+
+
+
+    /* Ellipse 3 */
+
+    position: absolute;
+    visibility: hidden;
+    width: 18.31px;
+    height: 20px;
+    left: 598px;
+    top: 440px;
+
+    /* Secondary */
+    background: #B2B2B2;
+
+
+    /* Ellipse 4 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 625.46px;
+    top: 442px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Ellipse 5 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 648.35px;
+    top: 442px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Ellipse 6 */
+
+    position: absolute;
+    width: 13.73px;
+    height: 15px;
+    left: 671.23px;
+    top: 442px;
+
+    /* Border Color */
+    background: #DADADA;
+
+
+    /* Testimonial Box */
+
+    width: 610px;
+    height: 350px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+
+    /* Background */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 610px;
+    height: 350px;
+    left: 1227.83px;
+    top: 28px;
+
+    /* Border Color */
+    border: 2px solid #DADADA;
+    border-radius: 16px;
+
+
+    /* Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. */
+
+    position: absolute;
+    width: 538.83px;
+    height: 108px;
+    left: 1263.42px;
+    top: 130px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    color: #D9D9D9;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 254.17px;
+    height: 52px;
+    left: 1263.42px;
+    top: 63px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Border Color */
+    color: #DADADA;
+
+
+
+    /* Client */
+
+    position: absolute;
+    width: 360.92px;
+    height: 75px;
+    left: 1263.42px;
+    top: 268px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 76.25px;
+    height: 75px;
+    left: 1263.42px;
+    top: 268px;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+
+
+    /* Client Info */
+
+    position: absolute;
+    width: 254.17px;
+    height: 54px;
+    left: 1370.17px;
+    top: 279px;
+
+
+
+    /* Lionel Messi */
+
+    position: absolute;
+    width: 254.17px;
+    height: 30px;
+    left: 1370.17px;
+    top: 279px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    color: #F3F3F3;
+
+
+
+    /* paris */
+
+    position: absolute;
+    width: 147.42px;
+    height: 18px;
+    left: 1370.17px;
+    top: 315px;
+
+    /* Subheading */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Testimonial Box */
+
+    width: 610px;
+    height: 350px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+
+
+    /* Background */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 610px;
+    height: 350px;
+    left: 1857.83px;
+    top: 28px;
+
+    /* Border Color */
+    border: 2px solid #DADADA;
+    border-radius: 16px;
+
+
+    /* Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. */
+
+    position: absolute;
+    width: 538.83px;
+    height: 108px;
+    left: 1893.42px;
+    top: 130px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* or 169% */
+
+    color: #D9D9D9;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 254.17px;
+    height: 52px;
+    left: 1893.42px;
+    top: 63px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Border Color */
+    color: #DADADA;
+
+
+
+    /* Client */
+
+    position: absolute;
+    width: 360.92px;
+    height: 75px;
+    left: 1893.41px;
+    top: 268px;
+
+
+
+    /* Image Placeholder */
+
+    position: absolute;
+    width: 76.25px;
+    height: 75px;
+    left: 1893.41px;
+    top: 268px;
+
+    background: #C4C4C4;
+    border-radius: 10px;
+
+
+    /* Client Info */
+
+    position: absolute;
+    width: 254.17px;
+    height: 54px;
+    left: 2000.16px;
+    top: 279px;
+
+
+
+    /* Lionel Messi */
+
+    position: absolute;
+    width: 254.17px;
+    height: 30px;
+    left: 2000.16px;
+    top: 279px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+    color: #F3F3F3;
+
+
+
+    /* paris */
+
+    position: absolute;
+    width: 147.42px;
+    height: 18px;
+    left: 2000.16px;
+    top: 315px;
+
+    /* Subheading */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Cuentanos */
+
+    position: absolute;
+    width: 1440px;
+    height: 1460px;
+    left: 0px;
+    top: 8031px;
+
+    background: #F3F3F3;
+
+
+    /* Title Section */
+
+    position: absolute;
+    width: 918px;
+    height: 137px;
+    left: 269px;
+    top: 125px;
+
+
+
+    /* Contáctanos y te cotizamos sin compromiso */
+
+    position: absolute;
+    width: 918px;
+    height: 54px;
+    left: 269px;
+    top: 125px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    /* identical to box height, or 154% */
+    text-align: center;
+
+    /* Heading Color */
+    color: #303030;
+
+
+
+    /* Diseñamos proyectos integrales adaptados a tus necesidades, siempre con el objetivo de hacer crecer tu proyecto. */
+
+    position: absolute;
+    width: 660px;
+    height: 50px;
+    left: 398px;
+    top: 212px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+    text-align: center;
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Contact Info */
+
+    position: absolute;
+    width: 1240px;
+    height: 222px;
+    left: 97px;
+    top: 349px;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 400px;
+    height: 222px;
+    left: 97px;
+    top: 349px;
+
+
+
+    /* Background */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 222px;
+    left: 97px;
+    top: 349px;
+
+    border: 2px solid #B2B2B2;
+    /* Box Shaddow */
+    filter: drop-shadow(0px 5px 50px rgba(0, 0, 0, 0.15));
+    border-radius: 16px;
+
+
+    /* Place Marker */
+
+    position: absolute;
+    width: 78px;
+    height: 46px;
+    left: 258px;
+    top: 381px;
+
+    background: url(.png);
+    border-radius: 16px;
+
+
+    /* Box */
+
+    position: absolute;
+    width: 400px;
+    height: 222px;
+    left: 517px;
+    top: 349px;
+
+
+
+    /* Background */
+
+    position: absolute;
+    width: 400px;
+    height: 222px;
+    left: 517px;
+    top: 349px;
+
+    /* Secondary */
+    background: #B2B2B2;
+    border-radius: 16px;
+
+
+    /* Box Content */
+
+    position: absolute;
+    width: 328.21px;
+    height: 152px;
+    left: 552.9px;
+    top: 384px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 246.15px;
+    height: 52px;
+    left: 593.92px;
+    top: 384px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Nuestro correo */
+
+    position: absolute;
+    width: 328.21px;
+    height: 30px;
+    left: 552.9px;
+    top: 466px;
+
+    /* H4 */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* info@boost.com */
+
+    position: absolute;
+    width: 328.21px;
+    height: 25px;
+    left: 552.9px;
+    top: 511px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+    text-align: center;
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 1204px;
+    height: 222px;
+    left: 133px;
+    top: 349px;
+
+
+
+    /* Background */
+
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 400px;
+    height: 222px;
+    left: 937px;
+    top: 349px;
+
+    border: 2px solid #B2B2B2;
+    /* Box Shaddow */
+    filter: drop-shadow(0px 5px 50px rgba(0, 0, 0, 0.15));
+    border-radius: 16px;
+
+
+    /* Box Content */
+
+    position: absolute;
+    width: 1168.1px;
+    height: 152px;
+    left: 133px;
+    top: 384px;
+
+
+
+    /*  */
+
+    position: absolute;
+    width: 246.15px;
+    height: 52px;
+    left: 1013.92px;
+    top: 384px;
+
+    /* Icon Big */
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 45px;
+    line-height: 52px;
+    /* identical to box height, or 115% */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* Secondary */
+    color: #B2B2B2;
+
+
+
+    /* Teléfono */
+
+    position: absolute;
+    width: 328.21px;
+    height: 30px;
+    left: 972.9px;
+    top: 466px;
+
+    /* H4 */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    /* Heading Color */
+    color: #303030;
+
+
+
+    /* ¿Dónde estamos? */
+
+    position: absolute;
+    width: 328.21px;
+    height: 30px;
+    left: 133px;
+    top: 466px;
+
+    /* H4 */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+    text-align: center;
+
+    /* Heading Color */
+    color: #303030;
+
+
+
+    /* (+54) 11 5555 5555 */
+
+    position: absolute;
+    width: 328.21px;
+    height: 25px;
+    left: 972.9px;
+    top: 511px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+    text-align: center;
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Buenos Aires Arg */
+
+    position: absolute;
+    width: 328.21px;
+    height: 25px;
+    left: 133px;
+    top: 511px;
+
+    /* Text Paragraph */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+    text-align: center;
+
+    /* Text Color */
+    color: #6E6E6E;
+
+
+
+    /* Frame 3 */
+
+    position: absolute;
+    width: 1440px;
+    height: 529px;
+    left: 0px;
+    top: 931px;
+
+
+
+    /* Footer */
+
+    position: absolute;
+    width: 1440px;
+    height: 529px;
+    left: 0px;
+    top: 0px;
+
+    background: #252525;
+
+
+    /* Rectangle 19 */
+
+    position: absolute;
+    width: 495px;
+    height: 60px;
+    left: 102px;
+    top: 298px;
+
+    background: rgba(217, 217, 217, 0.25);
+    border-radius: 16px;
+
+
+    /* Quick Links */
+
+    position: absolute;
+    width: 607px;
+    height: 216px;
+    left: 728px;
+    top: 120px;
+
+
+
+    /* Links */
+
+    position: absolute;
+    width: 293px;
+    height: 30px;
+    left: 728px;
+    top: 120px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Síguenos */
+
+    position: absolute;
+    width: 293px;
+    height: 30px;
+    left: 1042px;
+    top: 306px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Menu Navigation */
+
+    position: absolute;
+    width: 293px;
+    height: 145px;
+    left: 728px;
+    top: 178px;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 178px;
+
+
+
+    /* Home */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 178px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 218px;
+
+
+
+    /* Sobre nosotros */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 218px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 258px;
+
+
+
+    /* Nuestros servicios */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 258px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* List */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 298px;
+
+
+
+    /* Proyectos */
+
+    position: absolute;
+    width: 293px;
+    height: 25px;
+    left: 728px;
+    top: 298px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Company */
+
+    position: absolute;
+    width: 295px;
+    height: 110px;
+    left: 1042px;
+    top: 120px;
+
+
+
+    /* Nuestra compañía */
+
+    position: absolute;
+    width: 295px;
+    height: 30px;
+    left: 1042px;
+    top: 120px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Dirección Buenos Aires, Argentina */
+
+    position: absolute;
+    width: 295px;
+    height: 50px;
+    left: 1042px;
+    top: 180px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* or 147% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Logo & Subscribe */
+
+    position: absolute;
+    width: 495px;
+    height: 220px;
+    left: 102px;
+    top: 120px;
+
+
+
+    /* image 1 */
+
+    position: absolute;
+    width: 106px;
+    height: 33px;
+    left: calc(50% - 106px/2 - 565px);
+    top: 120px;
+
+    background: url(image);
+
+
+    /* Somos una agencia digital de marketing, branding y desarrollo web tanto para emprendedores como para empresas. */
+
+    position: absolute;
+    width: 495px;
+    height: 75px;
+    left: calc(50% - 495px/2 - 370.5px);
+    top: 180px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    /* White */
+    color: #FFFFFF;
+
+
+
+    /* Subscribe Form */
+
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: 127px;
+    top: 315px;
+
+
+
+    /* Email Form */
+
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: 127px;
+    top: 315px;
+
+
+
+    /* Correo electrónico */
+
+    position: absolute;
+    width: 157px;
+    height: 25px;
+    left: calc(50% - 157px/2 - 514.5px);
+    top: 315px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+
+    /* White Smoke */
+    color: #F3F3F3;
+
+    opacity: 0.8;
+
+
+    /* Copyright  2023 CODERHOUSE. Todos los derechos reservados */
+
+    position: absolute;
+    width: 509px;
+    height: 41px;
+    left: 462px;
+    top: 461px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 256%;
+    /* identical to box height, or 41px */
+    display: flex;
+    align-items: center;
+
+    color: #F29422;
+
+
+
+    /* Instagram */
+
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 1075px;
+    top: 395px;
+
+
+
+    /* Instagram */
+
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 1042px;
+    top: 364px;
+
+    background: url(.png);
+
+
+    /* LinkedIn 2 */
+
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 1083px;
+    top: 364px;
+
+    background: url(.png);
+
+
+    /* Facebook */
+
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    left: 1124px;
+    top: 364px;
+
+    background: url(.png);
+
+
+    /* Component 3 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 16px 57px;
+    gap: 10px;
+
+    position: absolute;
+    width: 218px;
+    height: 60px;
+    left: 379px;
+    top: 298px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Botón */
+
+    width: 104px;
+    height: 23px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    text-align: center;
+    letter-spacing: -0.02em;
+
+    color: #FFFFFF;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+
+    /* Frame 4 */
+
+    position: absolute;
+    width: 1456px;
+    height: 203px;
+    left: -8px;
+    top: 797px;
+
+
+
+    /* ESTEMOS EN CONTACTO */
+
+    position: absolute;
+    width: 600px;
+    height: 18px;
+    left: 420px;
+    top: 41px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+
+    /* Group 25 */
+
+    position: absolute;
+    width: 1570px;
+    height: 209px;
+    left: 0px;
+    top: 722px;
+
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 5%;
+    right: -9.03%;
+    top: 49.45%;
+    bottom: 36.85%;
+
+    background: #9B9B9B;
+
+
+    /* Vector */
+
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 51.71%;
+    bottom: 36.23%;
+
+    background: #252525;
+
+
+    /* Group 10 */
+
+    position: absolute;
+    width: 1440px;
+    height: 718px;
+    left: 0px;
+    top: 1952px;
+
+
+
+    /* Somos */
+
+    position: absolute;
+    width: 1440px;
+    height: 718px;
+    left: 0px;
+    top: 1952px;
+
+    background: #F3F3F3;
+
+
+    /* Title Section */
+
+    position: absolute;
+    width: 1232px;
+    height: 162px;
+    left: 100px;
+    top: 71px;
+
+
+
+    /* Potenciamos tu negocio para que pueda despegar */
+
+    position: absolute;
+    width: 610px;
+    height: 18px;
+    left: 100px;
+    top: 71px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    /* identical to box height, or 106% */
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+
+    color: #000000;
+
+
+
+    /* ¿Por qué somos la solución perfecta para tu negocio? */
+
+    position: absolute;
+    width: 610px;
+    height: 100px;
+    left: 100px;
+    top: 133px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    /* or 143% */
+
+    color: #303030;
+
+
+
+    /* Nuestro equipo empatiza con tu necesidad directa y crea el ambiente perfecto para que el resultado final de nuestro trabajo refleje la esencia de tu empresa. */
+
+    position: absolute;
+    width: 602px;
+    height: 75px;
+    left: 730px;
+    top: 133px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #061525;
+
+
+
+    /* Box Grid */
+
+    position: absolute;
+    width: 1240px;
+    height: 335px;
+    left: 100px;
+    top: 311px;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 610px;
+    height: 335px;
+    left: 100px;
+    top: 311px;
+
+
+
+    /* Background */
+
+    position: absolute;
+    width: 610px;
+    height: 335px;
+    left: 100px;
+    top: 311px;
+
+    background: #75BFB2;
+    border-radius: 16px;
+
+
+    /* Box */
+
+    position: absolute;
+    width: 513px;
+    height: 110px;
+    left: 135px;
+    top: 501px;
+
+
+
+    /* Box Content */
+
+    position: absolute;
+    width: 513px;
+    height: 110px;
+    left: 135px;
+    top: 501px;
+
+
+
+    /* Misión */
+
+    position: absolute;
+    width: 84px;
+    height: 30px;
+    left: 135px;
+    top: 501px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+
+    color: #FFFFFF;
+
+
+
+    /* Facilitar el despegue de las marcas y establecerlas en el mundo online con una estrategia clara para cada una de ellas. */
+
+    position: absolute;
+    width: 513px;
+    height: 50px;
+    left: 135px;
+    top: 561px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #FFFFFF;
+
+
+
+    /* Box */
+
+    position: absolute;
+    width: 610px;
+    height: 335px;
+    left: 730px;
+    top: 311px;
+
+
+
+    /* Background */
+
+    position: absolute;
+    width: 610px;
+    height: 335px;
+    left: 730px;
+    top: 311px;
+
+    background: #252526;
+    border-radius: 16px;
+
+
+    /* Box Content */
+
+    position: absolute;
+    width: 557px;
+    height: 142px;
+    left: 765px;
+    top: 476px;
+
+
+
+    /* Visión */
+
+    position: absolute;
+    width: 71px;
+    height: 30px;
+    left: 765px;
+    top: 476px;
+
+    /* H4 */
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 25px;
+    line-height: 30px;
+    /* identical to box height, or 120% */
+
+    color: #FFFFFF;
+
+
+
+    /* Ser reconocida como la empresa que brinda un servicio INTEGRAL Y DE CALIDAD PREMIUM a una cartera distinguida de clientes a través de soluciónes que están a la vanguardia de las necesidades tecnológicas a nivel internacional. */
+
+    position: absolute;
+    width: 557px;
+    height: 100px;
+    left: 765px;
+    top: 518px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* or 156% */
+
+    color: #FFFFFF;
+
+
+
+    /* Group 16 */
+
+    position: absolute;
+    width: 125px;
+    height: 110px;
+    left: 135px;
+    top: 344px;
+
+
+
+    /* Rectangle 24 */
+
+    position: absolute;
+    width: 125px;
+    height: 110px;
+    left: 135px;
+    top: 344px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+
+    /* target with dart arrow in bullseye */
+
+    position: absolute;
+    width: 94px;
+    height: 93px;
+    left: 151px;
+    top: 352px;
+
+    background: url(.png);
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+    /* Group 17 */
+
+    position: absolute;
+    width: 125px;
+    height: 110px;
+    left: 765px;
+    top: 344px;
+
+
+
+    /* Rectangle 24 */
+
+    position: absolute;
+    width: 125px;
+    height: 110px;
+    left: 765px;
+    top: 344px;
+
+    background: #FFFFFF;
+    border-radius: 5px;
+
+
+    /* searching man */
+
+    position: absolute;
+    width: 116px;
+    height: 99px;
+    left: 770px;
+    top: 349px;
+
+    background: url(.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}

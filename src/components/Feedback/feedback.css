@@ -1,0 +1,36 @@
+.feedback__container {
+    background-color: #252526;
+    overflow: hidden;
+}
+
+.feedback__container--title {
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 35px;
+}
+
+.feedback__container--title h2 {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+.feedback__container--title h1 {
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: -0.025em;
+}
+.feedback__container--title p {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #F29422;
+    margin-bottom: 87px;
+}

@@ -1,0 +1,35 @@
+.services {
+    padding: 0px 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+    background-color: #F3F3F3;
+}
+
+.separator2 {
+    position: relative;
+}
+
+.separatorvector2 {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: -233px;
+    right: -100px;
+}
+
+.separatororange2 {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: -240px;
+    right: -100px; 
+}
+
+.separatoraqua2 {
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: -233px;
+    right: -100px; 
+}

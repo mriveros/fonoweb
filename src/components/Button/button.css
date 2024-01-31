@@ -1,0 +1,28 @@
+.button {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 27px;
+    gap: 10px;
+    
+    height: 60px;
+
+    background: #75BFB2;
+    color: white;
+    border-radius: 16px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 115%;
+
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+
+.button:hover {
+    background-color: #f29422;
+    cursor: pointer;
+}

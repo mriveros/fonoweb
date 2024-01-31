@@ -1,0 +1,45 @@
+.about {
+    background-color: #F3F3F3;
+    color: black;
+
+    padding: 70px 100px;
+}
+
+.about__title {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #000000;
+
+    margin-bottom: 44px;
+}
+
+.about__subtitle {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 78px;
+}
+
+.about__subtitle h2 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 50px;
+    color: #303030;
+}
+
+.about__subtitle p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #061525;
+}
+
+.about__cards {
+    display: flex;
+    gap: 20px;
+}

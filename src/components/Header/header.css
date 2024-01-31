@@ -1,0 +1,92 @@
+.header {
+    height: 600px;
+    background-color: #4848f8;
+}
+
+.images {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.cloud1 {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.cloud2 {
+    position: absolute;
+    bottom: 0;
+    right: 4.5%;
+    width: 100%;
+}
+
+.rocket {
+    position: absolute;
+    right: 10%;
+    bottom: 200px;
+}
+
+.moon {
+    position: absolute;
+    right: calc(10% + 400px);
+    bottom: 330px;
+}
+
+.text__container {
+    position: absolute;
+    top: 0;
+    width: 60%;
+    height: 701px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    padding: 20px;
+}
+
+.text__container img {
+    width: fit-content;
+}
+
+.p1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+
+.p2 {
+    display: flex;
+    align-items: flex-end;
+    gap: 24.5px;
+}
+
+.p2 img:first-of-type {
+    width: 176.51px;
+    height: 44.49px;
+}
+
+.p2 img:last-of-type {
+    width: 191px;
+    height: 55px;
+}
+
+.p3 {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.circle {
+    position: absolute;
+}

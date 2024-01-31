@@ -1,0 +1,134 @@
+:root {
+    --dots-displacement: 200px;
+    --dots-opening-time: 1s;
+    --dots-rotating-time: 6s;
+    --dots-rotating-startdelay: 1s;
+}
+
+.loading {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: rgb(255, 255, 255);
+}
+
+.circle1 {
+    height: 52px;
+    width: 52px;
+    background-color: #F29422;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+    animation: openCircle1 var(--dots-opening-time) forwards, rotateCircle1 var(--dots-rotating-time) infinite var(--dots-rotating-startdelay);
+}
+
+.circle2 {
+    height: 52px;
+    width: 52px;
+    background-color: #DCAA5F;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.circle3 {
+    height: 52px;
+    width: 52px;
+    background-color: #BF4226;
+    border-radius: 50%;
+    position: absolute;
+    animation: openCircle3 var(--dots-opening-time) forwards, rotateCircle3 var(--dots-rotating-time) infinite var(--dots-rotating-startdelay);
+}
+
+.circle4 {
+    height: 52px;
+    width: 52px;
+    background-color: #252525;
+    border-radius: 50%;
+    position: absolute;
+    animation: openCircle4 var(--dots-opening-time) forwards, rotateCircle4 var(--dots-rotating-time) infinite var(--dots-rotating-startdelay);
+}
+
+.circle5 {
+    height: 52px;
+    width: 52px;
+    background-color: #75BFB2;
+    border-radius: 50%;
+    position: absolute;
+    animation: openCircle5 var(--dots-opening-time) forwards, rotateCircle5 var(--dots-rotating-time) infinite var(--dots-rotating-startdelay);
+}
+
+@keyframes openCircle1 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px); }
+    100% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+}
+
+@keyframes openCircle3 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px); }
+    100% { 
+        left: calc(50% - 26px); 
+        top: calc(50% - 26px + var(--dots-displacement)); 
+    }
+}
+
+@keyframes openCircle4 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px); }
+    100% { 
+        left: calc(50% - 26px + var(--dots-displacement));
+        top: calc(50% - 26px); 
+    }
+}
+
+@keyframes openCircle5 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px); }
+    100% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+}
+
+@keyframes rotateCircle1 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+    25% { left: calc(50% - 26px + var(--dots-displacement)); top: calc(50% - 26px); }
+    50% { left: calc(50% - 26px); top: calc(50% - 26px + var(--dots-displacement)); }
+    75% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+    100% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+}
+
+@keyframes rotateCircle3 {
+    0% { left: calc(50% - 26px); top: calc(50% - 26px + var(--dots-displacement)); }
+    25% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+    50% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+    75% { left: calc(50% - 26px + var(--dots-displacement)); top: calc(50% - 26px); }
+    100% { left: calc(50% - 26px); top: calc(50% - 26px + var(--dots-displacement)); }
+}
+
+@keyframes rotateCircle4 {
+    0% { left: calc(50% - 26px + var(--dots-displacement)); top: calc(50% - 26px); }
+    25% { left: calc(50% - 26px); top: calc(50% - 26px + var(--dots-displacement)); }
+    50% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+    75% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+    100% { left: calc(50% - 26px + var(--dots-displacement)); top: calc(50% - 26px); }
+}
+
+@keyframes rotateCircle5 {
+    0% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+    25% { left: calc(50% - 26px); top: calc(50% - 26px - var(--dots-displacement)); }
+    50% { left: calc(50% - 26px + var(--dots-displacement)); top: calc(50% - 26px); }
+    75% { left: calc(50% - 26px); top: calc(50% - 26px + var(--dots-displacement)); }
+    100% { left: calc(50% - 26px - var(--dots-displacement)); top: calc(50% - 26px); }
+}
+
+.loadinglines {
+    position: relative;
+    width: 100%;
+}
+
+.loadingline1 {
+    position: absolute;
+    top: calc(-100vh + 28px);
+}
+
+.loadingline2 {
+    position: absolute;
+    bottom: 7px;
+    right: 0;
+}

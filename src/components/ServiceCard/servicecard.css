@@ -1,0 +1,46 @@
+.servicecard {
+    display: flex;
+    gap: 83px;
+}
+
+.servicecard__image img {
+    width: 550px;
+    height: 380px;
+}
+
+.servicecard__description h3 {
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 18px;
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    color: #000000;
+    margin-bottom: 15px;
+}
+
+.servicecard__description h2 {
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 54px;
+
+    color: #5C9F93;
+    margin-bottom: 39px;
+}
+
+.servicecard__description p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    color: #061525;
+    margin-bottom: 39px;
+}
+
+.servicecard__description--list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    flex-wrap: wrap;
+    max-height: 165px;
+}
